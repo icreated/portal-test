@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="lib/powermock-api-mockito.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/powermock-module-junit4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src/">
+		<attributes>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.servicemix.bundles.spring-webmvc.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-security-config.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-security-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-security-web.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-test.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
