@@ -13,7 +13,7 @@
 To build this plugin you need to get sources in your project directory:
 
 ```shell
-git clone https://github.com/icreated/portal-api.git
+git clone https://github.com/icreated/portal-test.git
 ```
 **Important!**
 Edit pom.xml to link native Idempiere libraries with parent project.
